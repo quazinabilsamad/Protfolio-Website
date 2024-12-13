@@ -1,4 +1,4 @@
-# Protfolio-Website
+# Portfolio-Website
 
 The files here contains the CSS, HTML and Javascript code for a protfolio website template that I made using bootstrap. The bootstrap file is also here along with the images.
 
